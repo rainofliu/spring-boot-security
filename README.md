@@ -13,7 +13,7 @@ Spring Boot整合Spring Security的基本demo（作为和纯洁的微笑大佬�
 ### 1.配置pom文件
 
 ```xml
-		<dependency>
+	<dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-thymeleaf</artifactId>
         </dependency>     
